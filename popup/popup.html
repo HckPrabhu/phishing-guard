@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+  <title>Phishing Guard Pro</title>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Phishing Guard Pro</h1>
+      <div class="status-indicator" id="statusIndicator"></div>
+    </header>
+    
+    <main>
+      <div class="controls">
+        <button id="scanBtn" class="btn primary">Scan Current Page</button>
+        <button id="toggleMonitorBtn" class="btn secondary">Start Monitoring</button>
+      </div>
+      
+      <div class="scan-results" id="scanResults"></div>
+      
+      <div class="history" id="history">
+        <h2>Scan History</h2>
+        <div class="history-list" id="historyList"></div>
+      </div>
+    </main>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
