@@ -1,6 +1,6 @@
 Overview
 
-Phishing Guard Pro is an advanced security tool designed to protect users from phishing attacks. It performs real-time analysis of web pages, checks for suspicious patterns, and provides immediate feedback through visual indicators and detailed reports.
+Phishing Guard is an advanced security tool designed to protect users from phishing attacks. It performs real-time analysis of web pages, checks for suspicious patterns, and provides immediate feedback through visual indicators and detailed reports.
 Key Features
 
 - Real-time Analysis: Automatic scanning of every webpage you visit.
