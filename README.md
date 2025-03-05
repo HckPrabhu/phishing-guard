@@ -3,13 +3,13 @@ Overview
 Phishing Guard Pro is an advanced security tool designed to protect users from phishing attacks. It performs real-time analysis of web pages, checks for suspicious patterns, and provides immediate feedback through visual indicators and detailed reports.
 Key Features
 
-- Real-time Analysis**: Automatic scanning of every webpage you visit.
-- Visual Indicators**: Color-coded status badges and popup notifications.
-- Manual Scanning**: Force a scan on any page at any time.
-- Scan History**: Track previous scans with timestamps and results.
-- ofessional UI**: Clean, intuitive interface with responsive design.
-- Comprehensive Checks**: Analyzes URLs, domains, and page content for phishing indicators.
-- External API Ready**: Architecture prepared for integration with services like PhishTank.
+- Real-time Analysis: Automatic scanning of every webpage you visit.
+- Visual Indicators: Color-coded status badges and popup notifications.
+- Manual Scanning: Force a scan on any page at any time.
+- Scan History: Track previous scans with timestamps and results.
+- ofessional UI: Clean, intuitive interface with responsive design.
+- Comprehensive Checks: Analyzes URLs, domains, and page content for phishing indicators.
+- External API Ready: Architecture prepared for integration with services like PhishTank.
 
   Installation
  Prerequisites
